@@ -1,14 +1,11 @@
 +++
 date = "2017-04-30T17:42:30+02:00"
-icon = "<b>x </b>"
+icon = "<b> </b>"
 title = "Overview"
+chapter = false
 weight = 0
 
 +++
-
-### Chapter X
-
-# One Man's Guide to Spending a Summer or Gap Year Abroad
 
 This site is meant to be a guide for people wishing to travel abroad, be it to study, learn a language, immerse yourself in a culture, or simply for the love of exploration and adventure.
 
